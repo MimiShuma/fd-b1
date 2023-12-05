@@ -1,0 +1,11 @@
+1. git initialize: git init
+2. git remote add: git remote add <remote link>
+3. to show status: git status
+4. to add untracked file/folder: git add .
+5. to commit: git commit -m "message"
+6. to push: git push origin master
+7. to pull: git pull
+8. to clone a project: git clone <project_url>
+global configuration:
+9. git config --global user.email "user_email"
+10. git config --global user.name "user_name"
